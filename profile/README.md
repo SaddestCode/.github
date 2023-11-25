@@ -6,6 +6,8 @@ The repositories in this organization contain code used in tutorials for softwar
 Visit our [Youtube Channel](https://www.youtube.com/channel/UC68QwLLKbWXqr4VdDlIYb9A) for tutorial content.<br>
 Contact us at [saddest_code@protonmail.com](mailto:saddest_code@protonmail.com).
 
+> Icon drawn by [Seseren](https://www.pixiv.net/en/users/16274829).
+
 ---
 
 # Puddle World
