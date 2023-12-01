@@ -18,9 +18,9 @@ Puddle World is a web application designed to create a community-based education
 
 ## Web Stack
 
-![System Arhitecture Diagram](https://github.com/SaddestCode/.github/assets/25131995/7d9dbca1-9abd-40f9-8f47-643f635896b5)
+![System Architecture Diagram](https://github.com/SaddestCode/.github/assets/25131995/c5464cbe-7ce3-485b-a47c-8bb4c4c76029)
 
-The frontend is built using [React](https://react.dev/) with the [NextJS](https://nextjs.org/) framework, with strict TypeScript support.
+The frontend is built using [React](https://react.dev/) with the [Astro](https://astro.build/) framework, with strict TypeScript support.
 
 The backend system utilizes NodeJS with the [Fastify](https://fastify.dev/) framework, also with strict TypeScript support.<br>
 Additionally, [Prisma](https://www.prisma.io/) is used for database interactions, working with [PostgreSQL](https://www.postgresql.org/).
